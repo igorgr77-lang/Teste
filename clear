@@ -1,0 +1,61 @@
+[33mcommit ac12e1d98b3479f8583ea25fedc9149774797e1a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: igorgr77-lang <igor.gr77@gmail.com>
+Date:   Sat Feb 28 10:51:28 2026 -0300
+
+    Create new file 'new arq' with initial content
+
+[33mcommit 16257862f14fb7f2d57ace6ff54f4535d998c219[m
+Merge: f7ba849 098f4c6
+Author: IGOR GUIMARÃES RIBEIRO <igor.gr77@gmail.com>
+Date:   Sun Feb 22 17:21:44 2026 -0300
+
+    mexeu no mesmo arquivo
+
+[33mcommit f7ba849621493b85f7f336eea85b12579da7a947[m
+Author: IGOR GUIMARÃES RIBEIRO <igor.gr77@gmail.com>
+Date:   Sun Feb 22 17:17:59 2026 -0300
+
+    alterações soubao
+
+[33mcommit 098f4c6c678738c6f7060f10741f46ee465336db[m
+Author: igorgr77-lang <igor.gr77@gmail.com>
+Date:   Sun Feb 22 17:16:43 2026 -0300
+
+    Add additional line to soubao.txt
+
+[33mcommit 9496aa3d56a14c0cfb8e430c65068bcd29ba2bf2[m
+Merge: 888a43a 6e14b09
+Author: IGOR GUIMARÃES RIBEIRO <igor.gr77@gmail.com>
+Date:   Sun Feb 22 17:15:41 2026 -0300
+
+    Merge branch 'main' of https://github.com/igorgr77-lang/Teste
+
+[33mcommit 888a43abe2f169f516d6f5afe9c855011e689ccc[m
+Author: IGOR GUIMARÃES RIBEIRO <igor.gr77@gmail.com>
+Date:   Sun Feb 22 17:14:05 2026 -0300
+
+    agora arregaçou
+
+[33mcommit 6e14b093ef2c46dfdae3f1838cf905563510640e[m
+Author: igorgr77-lang <igor.gr77@gmail.com>
+Date:   Sun Feb 22 17:13:00 2026 -0300
+
+    Add files via upload
+
+[33mcommit 45f88dd38e4c5ff137fdae55e1b35f34fef1a46c[m
+Author: igorgr77-lang <igor.gr77@gmail.com>
+Date:   Sun Feb 22 17:11:25 2026 -0300
+
+    Add files via upload
+
+[33mcommit 16e972233292c41475c2be6b177b860f3cd88cdc[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: IGOR GUIMARÃES RIBEIRO <igor.gr77@gmail.com>
+Date:   Sun Feb 22 17:02:57 2026 -0300
+
+    bosta
+
+[33mcommit ee1de8ac27abd7b08b2a204f28a43ae920494f06[m
+Author: IGOR GUIMARÃES RIBEIRO <igor.gr77@gmail.com>
+Date:   Sun Feb 22 16:58:02 2026 -0300
+
+    firts commit
